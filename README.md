@@ -1,4 +1,4 @@
-[![MasterHead](https://blog-media.byjusfutureschool.com/bfs-blog/2022/08/03035002/Article-Image-945%C3%97498.jpg)]
+![MasterHead](https://blog-media.byjusfutureschool.com/bfs-blog/2022/08/03035002/Article-Image-945%C3%97498.jpg)
 <h1 align="center">Hi 👋, I'm Saba Parveen</h1>
 <h3 align="center">I'm currently learning Mern Stacks development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300&vertical=top">
